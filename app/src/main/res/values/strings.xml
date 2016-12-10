@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">P3</string>
+
+    <string name="tvHello">Hello World!</string>
+    <string name="btnXml">XML ONCLICK EVENT</string>
+    <string name="btnSeparate">SEPARATE, NAMED CLASS</string>
+    <string name="btnAnonymous">ANONYMOUS INNER CLASS</string>
+    <string name="btnCurrent">CURRENT CLASS LISTENER</string>
+</resources>
